@@ -6,7 +6,7 @@
 }
 
 body{
-background-image: url('/img/animales/fondo_africa.jpg');
+background-image: url('./img/animales/fondo_africa.jpg');
 background-size: 90%;
 }
 
