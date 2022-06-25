@@ -6,11 +6,11 @@ function cambiafoto1()
 {   
     var imagen1 = document.getElementById('leon1');
     if (fotopordefecto1 == 'leon1'){
-        imagen1.src = "leon2.jpg";
+        imagen1.src = "./img/animales/leon2.jpg.jpg";
         fotopordefecto1 = 'leon2';
     }
     else {
-        imagen1.src = 'leon1.jpg';
+        imagen1.src = './img/animales/leon1.jpg';
         fotopordefecto1 = 'leon1';
     }
 }
