@@ -6,7 +6,7 @@ function cambiafoto1()
 {   
     var imagen1 = document.getElementById('leon1');
     if (fotopordefecto1 == 'leon1'){
-        imagen1.src = "./img/animales/leon2.jpg.jpg";
+        imagen1.src = './img/animales/leon2.jpg.';
         fotopordefecto1 = 'leon2';
     }
     else {
@@ -16,7 +16,7 @@ function cambiafoto1()
 }
 
 const audio1 = new Audio();
-audio1.src = 'rugido.mp3';
+audio1.src = './mp3/animales/rugido.mp3';
 
 // ELEFANTE
 
