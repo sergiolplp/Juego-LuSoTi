@@ -1,0 +1,83 @@
+
+/* ESTILOS INDEX */
+
+* {
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Oleo Script Swash Caps', cursive;
+}
+
+.bodyindex {
+    background-image: url(/img/logos-fondos/fondoindex.jpg);
+    background-size: cover;
+}
+
+.navindex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    width: 100%;
+}
+
+.titulo {
+    text-align: center;
+    font-size: 60px;
+    letter-spacing: 30px;
+    color: #F1C40F;
+}
+
+
+.subtitulo {
+    text-align: center;
+    font-size: 30px;
+    letter-spacing: 30px;
+    color: #F4D03F;
+    margin-bottom: 20px;
+}
+
+.botonlink {
+    border-style: none;
+}
+
+.link {
+    overflow: hidden;
+    border-radius: 10px;
+    margin-top: 50px;
+}
+
+.link .imgindex {
+    transition: all 1s ease;
+}
+
+.link:hover .imgindex {
+    transform: scale(1.5);
+}
+
+.imgindex {
+    border-radius: 10px;
+    width: 400px;
+    height: 300px;
+}
+
+.footer{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    color: #7B241C;
+    margin-top: 50px;
+}
+
+@media only screen and (max-width : 600px) {
+    .navindex {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        gap: 20px;
+    }
+    
+    ;
+}
+
+
+/* ESTILOS ANIMALES */
