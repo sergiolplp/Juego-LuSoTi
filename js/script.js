@@ -26,17 +26,17 @@ function cambiafoto2()
 {   
     var imagen2 = document.getElementById('elefante1');
     if (fotopordefecto2 == 'elefante1'){
-        imagen2.src = "elefante2.jpg";
+        imagen2.src = "./img/animales/elefante2.jpg";
         fotopordefecto2 = 'elefante2';
     }
     else {
-        imagen2.src = 'elefante1.jpg';
+        imagen2.src = './img/animales/elefante1.jpg';
         fotopordefecto2 = 'elefante1';
     }
 }
 
 const audio2 = new Audio();
-audio2.src = 'barrito.mp3';
+audio2.src = './mp3/animales/barrito.mp3';
 
 // GORILLA
 
