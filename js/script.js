@@ -2,23 +2,23 @@
 
 // CABALLO
 
-var fotopordefecto1 = 'leon1';
+var fotopordefecto1 = 'caballo1';
 
 function cambiafoto1()
 {   
-    var imagen1 = document.getElementById('leon1');
-    if (fotopordefecto1 == 'leon1'){
-        imagen1.src = './img/animales/leon2.jpg.';
-        fotopordefecto1 = 'leon2';
+    var imagen1 = document.getElementById('caballo1');
+    if (fotopordefecto1 == 'caballo1'){
+        imagen1.src = './img/animales/caballo2.jpg.';
+        fotopordefecto1 = 'caballo2';
     }
     else {
-        imagen1.src = './img/animales/leon1.jpg';
-        fotopordefecto1 = 'leon1';
+        imagen1.src = './img/animales/caballo1.jpg';
+        fotopordefecto1 = 'caballo1';
     }
 }
 
 const audio1 = new Audio();
-audio1.src = './mp3/animales/rugido.mp3';
+audio1.src = './mp3/animales/caballo.mp3';
 
 
 // CERDO
