@@ -83,19 +83,19 @@
 /* ESTILOS ANIMALES */
 
 .bodyanimales {
-    background-image: url(/img/logos-fondos/fondoanimales.png);
+    background-image: url(/img/logos_fondos/fondoanimales.png);
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 .bodyletras{
-    background-image: url(/img/logos-fondos/fondoletras.jpg);
+    background-image: url(/img/logos_fondos/fondoletras.jpg);
     background-size:cover;
     background-repeat: no-repeat;
 }
 
 .bodynumeros{
-    background-image: url(/img/logos-fondos/fondonumeros.jpg);
+    background-image: url(/img/logos_fondos/fondonumeros.jpg);
     background-size:cover;
     background-repeat: no-repeat;
 }
@@ -144,7 +144,7 @@ border: none;
 /* ESTILOS LETRAS */
 
 .bodyanimales {
-    background-image: url(/img/logos-fondos/fondoanimales.png);
+    background-image: url(/img/logos_fondos/fondoanimales.png);
     background-size: cover;
 }
 
