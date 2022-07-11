@@ -120,14 +120,31 @@ align-items: center;
     height: 150px;
 }
 
+.imgatras:hover{
+    animation-name: girarb;
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+    display: inline-block;
+
+
+}
+
+@keyframes girarb {
+    from{
+        transform:rotate(360deg);
+    }to{
+        transform:rotate(0deg);
+    }
+}
+
 /* ESTILOS JUEGOS */
 
 .contenedorjuegos {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     grid-gap: 20px;
-    justify-content: center;
-    align-items: center;
+    place-items: center;
     width: 100%;
 }
 
@@ -139,10 +156,6 @@ align-items: center;
     margin-bottom: 50px;
 }
 
-.btn {
-    
-}
-
 .imgjuegos {
     border-radius: 10px;
     width: 300px;
@@ -151,6 +164,14 @@ align-items: center;
 
 @media only screen and (max-width : 600px) {
     .contenedorjuegos {
-        grid-template-columns: repeat(1, 1fr);
+        grid-template-columns: repeat(2, 1fr);
+    };
+}
+
+@media only screen and (max-width : 600px) {
+    .imgjuegos {
+        grid-template-columns: repeat(2, 1fr);
+        width: 170px;
+        height: 100px;
     };
 }
