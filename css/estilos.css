@@ -9,17 +9,10 @@
 /* ESTILOS FONDOS */
 
 
-.bodyindex {
-background-color: black;
+.bodyjuego {
+background-image: url(./img/logos_fondos/fondoindex.jpg);
+background-size: cover;
 }
-
-.bodyanimales{background-color: black;}
-.bodynumeros{background-color: black;}
-.bodyletras{background-color: black;}
-.bodyformas{background-color: black;}
-
-
-
 
 /* ESTILOS INDEX */
 
