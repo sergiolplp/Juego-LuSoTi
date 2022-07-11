@@ -615,7 +615,7 @@ audio29.src = './mp3/letras/o.mp3'
 
 // P
 
-var fotopordefecto30 = 'p1'p
+var fotopordefecto30 = 'p1'
 
 function cambiafoto30()
 {   
@@ -632,7 +632,7 @@ function cambiafoto30()
 
 const audio30 = new Audio();
 audio30.src = './mp3/letras/p.mp3'
-q
+
 // Q
 
 var fotopordefecto31 = 'q1';
@@ -651,7 +651,7 @@ function cambiafoto31()
 }
 
 const audio31 = new Audio();
-audio31.src = './mp3/letras/q.mp3'r
+audio31.src = './mp3/letras/q.mp3'
 
 // R
 
@@ -729,7 +729,7 @@ function cambiafoto35()
     }
     else {
         imagen35.src = './img/letras/u1.jpg';
-        fotopordefecto35 = 'u1'u
+        fotopordefecto35 = 'u1'
     }
 }
 
@@ -803,7 +803,7 @@ audio38.src = './mp3/letras/x.mp3'
 
 var fotopordefecto39 = 'y1';
 
-function cambiafoto39
+function cambiafoto39()
 {   
     var imagen39 = document.getElementById('y');
     if (fotopordefecto39 == 'y1'){
@@ -845,209 +845,209 @@ audio40.src = './mp3/letras/z.mp3'
 
 // 0
 
-var fotopordefecto41 = 'leon1';
+var fotopordefecto41 = '0';
 
 function cambiafoto41()
 {   
-    var imagen41 = document.getElementById('leon1');
-    if (fotopordefecto41 == 'leon1'){
-        imagen41.src = './img/animales/leon2.jpg.';
-        fotopordefecto41 = 'leon2';
+    var imagen41 = document.getElementById('0');
+    if (fotopordefecto41 == '0'){
+        imagen41.src = './img/numeros/null.jpg.';
+        fotopordefecto41 = 'null';
     }
     else {
-        imagen41.src = './img/animales/leon1.jpg';
-        fotopordefecto41 = 'leon1';
+        imagen41.src = './img/numeros/0.jpg';
+        fotopordefecto41 = '0';
     }
 }
 
 const audio41 = new Audio();
-audio40.src = './mp3/animales/rugido.mp3';
+audio41.src = './mp3/numeros/0.mp3';
 
 
 // 1
 
-var fotopordefecto41 = 'leon1';
+var fotopordefecto41 = '1';
 
 function cambiafoto41()
 {   
-    var imagen41 = document.getElementById('leon1');
-    if (fotopordefecto41 == 'leon1'){
-        imagen41.src = './img/animales/leon2.jpg.';
-        fotopordefecto41 = 'leon2';
+    var imagen41 = document.getElementById('1');
+    if (fotopordefecto41 == '1'){
+        imagen41.src = './img/numeros/i.jpg.';
+        fotopordefecto41 = 'i';
     }
     else {
-        imagen41.src = './img/animales/leon1.jpg';
-        fotopordefecto41 = 'leon1';
+        imagen41.src = './img/numeros/1.jpg';
+        fotopordefecto41 = '1';
     }
 }
 
 const audio41 = new Audio();
-audio41.src = './mp3/animales/rugido.mp3';
+audio41.src = './mp3/numeros/1.mp3';
 
 
 // 2
 
-var fotopordefecto42 = 'leon1';
+var fotopordefecto42 = '2';
 
 function cambiafoto42()
 {   
-    var imagen42 = document.getElementById('leon1');
-    if (fotopordefecto42 == 'leon1'){
-        imagen42.src = './img/animales/leon2.jpg.';
-        fotopordefecto42 = 'leon2';
+    var imagen42 = document.getElementById('2');
+    if (fotopordefecto42 == '2'){
+        imagen42.src = './img/numeros/ii.jpg.';
+        fotopordefecto42 = 'ii';
     }
     else {
-        imagen42.src = './img/animales/leon1.jpg';
-        fotopordefecto42 = 'leon1';
+        imagen42.src = './img/numeros/ii.jpg';
+        fotopordefecto42 = '2';
     }
 }
 
 const audio42 = new Audio();
-audio42.src = './mp3/animales/rugido.mp3';
+audio42.src = './mp3/numeros/2.mp3';
 
 
 // 3
 
-var fotopordefecto43 = 'leon1';
+var fotopordefecto43 = '3';
 
 function cambiafoto43()
 {   
-    var imagen43 = document.getElementById('leon1');
-    if (fotopordefecto43 == 'leon1'){
-        imagen43.src = './img/animales/leon2.jpg.';
+    var imagen43 = document.getElementById('3');
+    if (fotopordefecto43 == '3'){
+        imagen43.src = './img/numeros/iii.jpg.';
         fotopordefecto43 = 'leon2';
     }
     else {
-        imagen43.src = './img/animales/leon1.jpg';
-        fotopordefecto43 = 'leon1';
+        imagen43.src = './img/numeros/iii.jpg';
+        fotopordefecto43 = '3';
     }
 }
 
 const audio43 = new Audio();
-audio43.src = './mp3/animales/rugido.mp3';
+audio43.src = './mp3/numeros/3.mp3';
 
 
 // 4
 
-var fotopordefecto44 = 'leon1';
+var fotopordefecto44 = '4';
 
 function cambiafoto44()
 {   
-    var imagen44 = document.getElementById('leon1');
-    if (fotopordefecto44 == 'leon1'){
-        imagen44.src = './img/animales/leon2.jpg.';
-        fotopordefecto44 = 'leon2';
+    var imagen44 = document.getElementById('4');
+    if (fotopordefecto44 == '4'){
+        imagen44.src = './img/numeros/iv.jpg.';
+        fotopordefecto44 = 'iv';
     }
     else {
-        imagen44.src = './img/animales/leon1.jpg';
-        fotopordefecto44 = 'leon1';
+        imagen44.src = './img/numeros/4.jpg';
+        fotopordefecto44 = '4';
     }
 }
 
 const audio44 = new Audio();
-audio44.src = './mp3/animales/rugido.mp3';
+audio44.src = './mp3/numeros/4.mp3';
 
 
 // 5
 
-var fotopordefecto45 = 'leon1';
+var fotopordefecto45 = '5';
 
 function cambiafoto45()
 {   
-    var imagen45 = document.getElementById('leon1');
-    if (fotopordefecto45 == 'leon1'){
-        imagen45.src = './img/animales/leon2.jpg.';
-        fotopordefecto45 = 'leon2';
+    var imagen45 = document.getElementById('5');
+    if (fotopordefecto45 == '5'){
+        imagen45.src = './img/numeros/v.jpg.';
+        fotopordefecto45 = 'v';
     }
     else {
-        imagen45.src = './img/animales/leon1.jpg';
-        fotopordefecto45 = 'leon1';
+        imagen45.src = './img/numeros/5.jpg';
+        fotopordefecto45 = '5';
     }
 }
 
 const audio45 = new Audio();
-audio45.src = './mp3/animales/rugido.mp3';
+audio45.src = './mp3/numeros/5.mp3';
 
 
 // 6
 
-var fotopordefecto46 = 'leon1';
+var fotopordefecto46 = '6';
 
 function cambiafoto46()
 {   
-    var imagen46 = document.getElementById('leon1');
-    if (fotopordefecto46 == 'leon1'){
-        imagen46.src = './img/animales/leon2.jpg.';
-        fotopordefecto46 = 'leon2';
+    var imagen46 = document.getElementById('6');
+    if (fotopordefecto46 == '6'){
+        imagen46.src = './img/numeros/vi.jpg.';
+        fotopordefecto46 = 'vi';
     }
     else {
-        imagen46.src = './img/animales/leon1.jpg';
-        fotopordefecto46 = 'leon1';
+        imagen46.src = './img/numeros/6.jpg';
+        fotopordefecto46 = '6';
     }
 }
 
 const audio46 = new Audio();
-audio46.src = './mp3/animales/rugido.mp3';
+audio46.src = './mp3/numeros/6.mp3';
 
 
 // 7
 
-var fotopordefecto47 = 'leon1';
+var fotopordefecto47 = '7';
 
 function cambiafoto47()
 {   
-    var imagen47 = document.getElementById('leon1');
-    if (fotopordefecto47 == 'leon1'){
-        imagen47.src = './img/animales/leon2.jpg.';
+    var imagen47 = document.getElementById('7');
+    if (fotopordefecto47 == '7'){
+        imagen47.src = './img/numeros/vii.jpg.';
         fotopordefecto47 = 'leon2';
     }
     else {
-        imagen47.src = './img/animales/leon1.jpg';
-        fotopordefecto47 = 'leon1';
+        imagen47.src = './img/numeros/7.jpg';
+        fotopordefecto47 = '7';
     }
 }
 
 const audio47 = new Audio();
-audio47.src = './mp3/animales/rugido.mp3';
+audio47.src = './mp3/numeros/7.mp3';
 
 
 // 8
 
-var fotopordefecto48 = 'leon1';
+var fotopordefecto48 = '8';
 
 function cambiafoto48()
 {   
-    var imagen48 = document.getElementById('leon1');
-    if (fotopordefecto48 == 'leon1'){
-        imagen48.src = './img/animales/leon2.jpg.';
-        fotopordefecto48 = 'leon2';
+    var imagen48 = document.getElementById('8');
+    if (fotopordefecto48 == '8'){
+        imagen48.src = './img/numeros/viii.jpg.';
+        fotopordefecto48 = 'viii';
     }
     else {
-        imagen48.src = './img/animales/leon1.jpg';
-        fotopordefecto48 = 'leon1';
+        imagen48.src = './img/numeros/8.jpg';
+        fotopordefecto48 = '8';
     }
 }
 
 const audio48 = new Audio();
-audio48.src = './mp3/animales/rugido.mp3';
+audio48.src = './mp3/numeros/8.mp3';
 
 
 // 9
 
-var fotopordefecto49 = 'leon1';
+var fotopordefecto49 = '9';
 
 function cambiafoto49()
 {   
-    var imagen49 = document.getElementById('leon1');
-    if (fotopordefecto49 == 'leon1'){
-        imagen49.src = './img/animales/leon2.jpg.';
-        fotopordefecto49 = 'leon2';
+    var imagen49 = document.getElementById('9');
+    if (fotopordefecto49 == '9'){
+        imagen49.src = './img/numeros/ix.jpg.';
+        fotopordefecto49 = 'ix';
     }
     else {
-        imagen49.src = './img/animales/leon1.jpg';
-        fotopordefecto49 = 'leon1';
+        imagen49.src = './img/numeros/9.jpg';
+        fotopordefecto49 = '9';
     }
 }
 
 const audio49 = new Audio();
-audio49.src = './mp3/animales/rugido.mp3';
+audio49.src = './mp3/numeros/9.mp3';
