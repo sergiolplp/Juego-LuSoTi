@@ -96,7 +96,7 @@ function cambiafoto5()
         fotopordefecto5 = 'gorila2';
     }
     else {
-        imagen5.src = 'gorila1.jpg';
+        imagen5.src = './img/animales/gorila1.jpg';
         fotopordefecto5 = 'gorila1';
     }
 }
