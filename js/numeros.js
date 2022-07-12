@@ -134,7 +134,7 @@ function cambiafoto47()
 {   
     var imagen47 = document.getElementById('seis');
     if (fotopordefecto47 == 'seis1'){
-        imagen47.src = './img/numeros/sei2.jpg';
+        imagen47.src = './img/numeros/seis2.jpg';
         fotopordefecto47 = 'seis2';
     }
     else {
