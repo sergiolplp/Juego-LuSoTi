@@ -8,7 +8,7 @@ function cambiafoto1()
 {   
     var imagen1 = document.getElementById('caballo');
     if (fotopordefecto1 == 'caballo1'){
-        imagen1.src = './img/animales/caballo2.jpg.';
+        imagen1.src = './img/animales/caballo2.jpg';
         fotopordefecto1 = 'caballo2';
     }
     else {
@@ -29,7 +29,7 @@ function cambiafoto2()
 {   
     var imagen2 = document.getElementById('cerdo');
     if (fotopordefecto2 == 'cerdo1'){
-        imagen2.src = './img/animales/cerdo2.jpg.';
+        imagen2.src = './img/animales/cerdo2.jpg';
         fotopordefecto2 = 'cerdo2';
     }
     else {
@@ -50,7 +50,7 @@ function cambiafoto3()
 {   
     var imagen3 = document.getElementById('elefante');
     if (fotopordefecto3 == 'elefante1'){
-        imagen3.src = "./img/animales/elefante2.jpg";
+        imagen3.src = './img/animales/elefante2.jpg';
         fotopordefecto3 = 'elefante2';
     }
     else {
@@ -71,7 +71,7 @@ function cambiafoto4()
 {   
     var imagen4 = document.getElementById('gallo');
     if (fotopordefecto4 == 'gallo1'){
-        imagen4.src = './img/animales/gallo2.jpg.';
+        imagen4.src = './img/animales/gallo2.jpg';
         fotopordefecto4 = 'gallo2';
     }
     else {
@@ -92,7 +92,7 @@ function cambiafoto5()
 {   
     var imagen5 = document.getElementById('gorila');
     if (fotopordefecto5 == 'gorila1'){
-        imagen5.src = "./img/animales/gorila2.jpg.";
+        imagen5.src = './img/animales/gorila2.jpg';
         fotopordefecto5 = 'gorila2';
     }
     else {
@@ -113,7 +113,7 @@ function cambiafoto6()
 {   
     var imagen6 = document.getElementById('leon');
     if (fotopordefecto6 == 'leon1'){
-        imagen6.src = './img/animales/leon2.jpg.';
+        imagen6.src = './img/animales/leon2.jpg';
         fotopordefecto6 = 'leon2';
     }
     else {
@@ -134,7 +134,7 @@ function cambiafoto7()
 {   
     var imagen7 = document.getElementById('oveja');
     if (fotopordefecto7 == 'oveja1'){
-        imagen7.src = './img/animales/oveja2.jpg.';
+        imagen7.src = './img/animales/oveja2.jpg';
         fotopordefecto7 = 'oveja2';
     }
     else {
@@ -155,7 +155,7 @@ function cambiafoto8()
 {   
     var imagen8 = document.getElementById('vaca');
     if (fotopordefecto8 == 'vaca1'){
-        imagen8.src = './img/animales/vaca2.jpg.';
+        imagen8.src = './img/animales/vaca2.jpg';
         fotopordefecto8 = 'vaca2';
     }
     else {
@@ -176,7 +176,7 @@ function cambiafoto9()
 {   
     var imagen9 = document.getElementById('zebra');
     if (fotopordefecto9 == 'zebra1'){
-        imagen9.src = './img/animales/zebra2.jpg.';
+        imagen9.src = './img/animales/zebra2.jpg';
         fotopordefecto9 = 'zebra2';
     }
     else {

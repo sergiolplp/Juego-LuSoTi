@@ -8,7 +8,7 @@ function cambiafoto10()
 {   
     var imagen10 = document.getElementById('circulo');
     if (fotopordefecto10 == 'circulo1'){
-        imagen10.src = './img/formas/circulo2.jpg.';
+        imagen10.src = './img/formas/circulo2.jpg';
         fotopordefecto10 = 'circulo2';
     }
     else {
@@ -29,7 +29,7 @@ function cambiafoto11()
 {   
     var imagen11 = document.getElementById('cuadrado');
     if (fotopordefecto11 == 'cuadrado1'){
-        imagen11.src = './img/formas/cuadrado2.jpg.';
+        imagen11.src = './img/formas/cuadrado2.jpg';
         fotopordefecto11 = 'cuadrado2';
     }
     else {
@@ -50,7 +50,7 @@ function cambiafoto12()
 {   
     var imagen12 = document.getElementById('rectangulo');
     if (fotopordefecto12 == 'rectangulo1'){
-        imagen12.src = './img/formas/rectangulo2.jpg.';
+        imagen12.src = './img/formas/rectangulo2.jpg';
         fotopordefecto12 = 'rectangulo2';
     }
     else {
@@ -71,7 +71,7 @@ function cambiafoto13()
 {   
     var imagen13 = document.getElementById('triangulo');
     if (fotopordefecto13 == 'triangulo1'){
-        imagen13.src = './img/formas/triangulo2.jpg.';
+        imagen13.src = './img/formas/triangulo2.jpg';
         fotopordefecto13 = 'triangulo2';
     }
     else {

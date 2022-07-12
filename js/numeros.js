@@ -8,7 +8,7 @@ function cambiafoto41()
 {   
     var imagen41 = document.getElementById('cero');
     if (fotopordefecto41 == 'cero'){
-        imagen41.src = './img/numeros/nulo.jpg.';
+        imagen41.src = './img/numeros/nulo.jpg';
         fotopordefecto41 = 'nulo';
     }
     else {
@@ -29,7 +29,7 @@ function cambiafoto41()
 {   
     var imagen41 = document.getElementById('uno');
     if (fotopordefecto41 == 'uno'){
-        imagen41.src = './img/numeros/i.jpg.';
+        imagen41.src = './img/numeros/i.jpg';
         fotopordefecto41 = 'i';
     }
     else {
@@ -50,7 +50,7 @@ function cambiafoto42()
 {   
     var imagen42 = document.getElementById('dos');
     if (fotopordefecto42 == 'dos'){
-        imagen42.src = './img/numeros/ii.jpg.';
+        imagen42.src = './img/numeros/ii.jpg';
         fotopordefecto42 = 'ii';
     }
     else {
@@ -71,7 +71,7 @@ function cambiafoto43()
 {   
     var imagen43 = document.getElementById('tres');
     if (fotopordefecto43 == 'tres'){
-        imagen43.src = './img/numeros/iii.jpg.';
+        imagen43.src = './img/numeros/iii.jpg';
         fotopordefecto43 = 'iii';
     }
     else {
@@ -92,7 +92,7 @@ function cambiafoto44()
 {   
     var imagen44 = document.getElementById('cuatro');
     if (fotopordefecto44 == 'cuatro'){
-        imagen44.src = './img/numeros/iv.jpg.';
+        imagen44.src = './img/numeros/iv.jpg';
         fotopordefecto44 = 'iv';
     }
     else {
@@ -113,7 +113,7 @@ function cambiafoto45()
 {   
     var imagen45 = document.getElementById('cinco');
     if (fotopordefecto45 == 'cinco'){
-        imagen45.src = './img/numeros/v.jpg.';
+        imagen45.src = './img/numeros/v.jpg';
         fotopordefecto45 = 'v';
     }
     else {
@@ -134,7 +134,7 @@ function cambiafoto46()
 {   
     var imagen46 = document.getElementById('seis');
     if (fotopordefecto46 == 'seis'){
-        imagen46.src = './img/numeros/vi.jpg.';
+        imagen46.src = './img/numeros/vi.jpg';
         fotopordefecto46 = 'vi';
     }
     else {
@@ -155,7 +155,7 @@ function cambiafoto47()
 {   
     var imagen47 = document.getElementById('siete');
     if (fotopordefecto47 == 'siete'){
-        imagen47.src = './img/numeros/vii.jpg.';
+        imagen47.src = './img/numeros/vii.jpg';
         fotopordefecto47 = 'siete';
     }
     else {
@@ -176,7 +176,7 @@ function cambiafoto48()
 {   
     var imagen48 = document.getElementById('ocho');
     if (fotopordefecto48 == 'ocho'){
-        imagen48.src = './img/numeros/viii.jpg.';
+        imagen48.src = './img/numeros/viii.jpg';
         fotopordefecto48 = 'viii';
     }
     else {
@@ -197,7 +197,7 @@ function cambiafoto49()
 {   
     var imagen49 = document.getElementById('nueve');
     if (fotopordefecto49 == 'nueve'){
-        imagen49.src = './img/numeros/ix.jpg.';
+        imagen49.src = './img/numeros/ix.jpg';
         fotopordefecto49 = 'ix';
     }
     else {
